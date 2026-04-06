@@ -1,8 +1,7 @@
 # 📜 Ethos XP: Gamified Sustainability Quest Log
 
-# Ethos XP is a high-engagement desktop application designed to transform sustainable habits into an immersive RPG experience. Built with JavaFX and MySQL, it aligns with the United Nations Sustainable Development Goal 13 (Climate Action) by rewarding real-world environmental missions with Experience Points (XP) and Ranks.
+Ethos XP is a high-engagement desktop application designed to transform sustainable habits into an immersive RPG experience. Built with JavaFX and MySQL, it aligns with the United Nations Sustainable Development Goal 13 (Climate Action) by rewarding real-world environmental missions with Experience Points (XP) and Ranks.
 
-(Replace this with a real screenshot of your forest dashboard!)
 
 # 🌟 Key Features
 Quest-Based Tracking: Add, manage, and complete sustainability "Missions" (Water conservation, Energy efficiency, Waste reduction).
