@@ -2,6 +2,7 @@
 
 Ethos XP is a high-engagement desktop application designed to transform sustainable habits into an immersive RPG experience. Built with JavaFX and MySQL, it aligns with the United Nations Sustainable Development Goal 13 (Climate Action) by rewarding real-world environmental missions with Experience Points (XP) and Ranks.
 
+<img width="827" height="975" alt="Screenshot 2026-04-06 032907" src="https://github.com/user-attachments/assets/a07121f3-020d-417c-8580-6cfedad52150" />
 
 # 🌟 Key Features
 Quest-Based Tracking: Add, manage, and complete sustainability "Missions" (Water conservation, Energy efficiency, Waste reduction).
@@ -59,7 +60,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/EthosXP.git
+git clone https://github.com/PratikshaSingh04/Ethos-XP
 Import the project into your IDE.
 
 Update DBConnection.java with your MySQL credentials.
